@@ -28,10 +28,10 @@ body {
 	background-color: #d8e4d4;
 }
 
-.text-fas{
+.text-fas {
 	border-radius: 50px;
 	padding-top: 20px;
-	background-color: 	#f3f3b5;
+	background-color: #f3f3b5;
 }
 .footer-distributed {
 	background-color: #66cdaa;
@@ -50,13 +50,9 @@ body {
 	vertical-align: top;
 }
 
-
-
 .footer-distributed .footer-kiri {
 	width: 40%;
 }
-
-
 
 .footer-distributed h3 {
 	color: #ffffff;
@@ -67,8 +63,6 @@ body {
 .footer-distributed h3 span {
 	color: lightseagreen;
 }
-
-
 
 .footer-distributed .footer-links {
 	color: #ffffff;
@@ -90,8 +84,6 @@ body {
 	font-weight: normal;
 	margin: 0;
 }
-
-
 
 .footer-distributed .footer-tengah {
 	width: 35%;
@@ -149,8 +141,6 @@ body {
 	content: none;
 }
 
-
-
 .footer-distributed .footer-kanan {
 	width: 20%;
 }
@@ -175,7 +165,6 @@ body {
 	margin-right: 3px;
 	margin-bottom: 5px;
 }
-
 
 @media (max-width: 880px) {
 	.footer-distributed {
@@ -202,21 +191,20 @@ body {
 }
 
 .kejurusan {
-	padding: 20px; 
+	padding: 20px;
 	height: 700px;
 }
 .isijur {
 	padding-top: 100px;
 }
 
-.card img{
+.card img {
 	height: 300px;
 }
 
 .propem {
 	height: 200px;
 	padding: 50px;
-
 }
 .prodat {
 	padding-bottom: 50px;
